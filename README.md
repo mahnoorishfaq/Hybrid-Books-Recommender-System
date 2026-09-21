@@ -6,7 +6,7 @@ A book recommender that combines content-based filtering and collaborative filte
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 
-**Live demo:** coming soon
+**Live demo:** [hybrid-books-recommender-system-abypdeffa6mibqdrsrqms4.streamlit.app](https://hybrid-books-recommender-system-abypdeffa6mibqdrsrqms4.streamlit.app/)
 
 ![Hybrid Books Recommender home page](assets/home.png)
 
