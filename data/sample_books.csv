@@ -1,0 +1,68 @@
+ISBN,Book-Title,Book-Author,Year-Of-Publication,Publisher,Genre,Description
+BK00000,Dune,Frank Herbert,1965,Chilton Books,Science Fiction,"A desert planet holds the only source of a substance that enables interstellar travel. A young heir is drawn into ecological politics, prophecy and revenge across shifting sands."
+BK00001,Neuromancer,William Gibson,1984,Ace,Science Fiction,"A burned out computer hacker is hired for one last job in a neon lit future of corporate espionage, artificial intelligence and body modification."
+BK00002,The Left Hand of Darkness,Ursula K. Le Guin,1969,Ace,Science Fiction,"An envoy arrives on a frozen world where inhabitants have no fixed gender, and must navigate politics and friendship across deep cultural difference."
+BK00003,Snow Crash,Neal Stephenson,1992,Bantam,Science Fiction,A pizza delivery driver and hacker uncovers a virus that spreads through both computers and human minds in a fragmented corporate America.
+BK00004,Foundation,Isaac Asimov,1951,Gnome Press,Science Fiction,A mathematician predicts the collapse of a galactic empire and establishes a colony to shorten the coming dark age.
+BK00005,The Dispossessed,Ursula K. Le Guin,1974,Harper,Science Fiction,"A physicist travels between an anarchist moon and the wealthy planet it rejected, testing both societies against each other."
+BK00006,Hyperion,Dan Simmons,1989,Doubleday,Science Fiction,"Seven pilgrims travel to a distant world, each telling the story that brought them to a creature that moves backward through time."
+BK00007,Ancillary Justice,Ann Leckie,2013,Orbit,Science Fiction,"The last fragment of a destroyed warship's consciousness, now in a single human body, pursues revenge across an empire."
+BK00008,Project Hail Mary,Andy Weir,2021,Ballantine,Science Fiction,A lone astronaut wakes with no memory aboard a ship sent to solve a crisis that threatens the sun itself.
+BK00009,Klara and the Sun,Kazuo Ishiguro,2021,Faber,Science Fiction,An artificial friend observes human love and illness from a shop window and then from inside a family home.
+BK00010,The Hobbit,J.R.R. Tolkien,1937,Allen and Unwin,Fantasy,A comfortable hobbit is pulled into a journey across mountains and forests to reclaim treasure guarded by a dragon.
+BK00011,A Wizard of Earthsea,Ursula K. Le Guin,1968,Parnassus,Fantasy,A gifted young mage releases a shadow through pride and must sail the archipelago to face what he made.
+BK00012,The Name of the Wind,Patrick Rothfuss,2007,DAW,Fantasy,"An innkeeper recounts his life as a gifted musician, student of magic, and the legend that grew around him."
+BK00013,Mistborn,Brandon Sanderson,2006,Tor,Fantasy,"In an ash covered empire, a street thief discovers she can draw power from swallowed metals and joins a plot against a god king."
+BK00014,The Fifth Season,N.K. Jemisin,2015,Orbit,Fantasy,"On a continent wracked by geological catastrophe, people who can quiet earthquakes are enslaved for their power."
+BK00015,Piranesi,Susanna Clarke,2020,Bloomsbury,Fantasy,"A man lives alone in an endless house of statues and tides, keeping careful notes, until evidence of another world appears."
+BK00016,The Night Circus,Erin Morgenstern,2011,Doubleday,Fantasy,Two young magicians are bound to a contest inside a circus that appears without warning and opens only at night.
+BK00017,Jonathan Strange and Mr Norrell,Susanna Clarke,2004,Bloomsbury,Fantasy,Two magicians revive English magic during the Napoleonic wars and fall into rivalry and dangerous bargains.
+BK00018,Good Omens,Terry Pratchett,1990,Gollancz,Fantasy,"An angel and a demon, both fond of life on earth, try to prevent an apocalypse after misplacing the antichrist."
+BK00019,The Ocean at the End of the Lane,Neil Gaiman,2013,Morrow,Fantasy,"A man returns to his childhood home and remembers a neighbour's pond that was really an ocean, and what came through it."
+BK00020,The Big Sleep,Raymond Chandler,1939,Knopf,Mystery,"A private detective takes a blackmail case in Los Angeles and finds pornography, missing persons and a family rotting from within."
+BK00021,Gone Girl,Gillian Flynn,2012,Crown,Mystery,A wife disappears on her anniversary and the husband becomes a suspect as the marriage's real shape emerges.
+BK00022,The Girl with the Dragon Tattoo,Stieg Larsson,2005,Norstedts,Mystery,A disgraced journalist and a brilliant hacker investigate a woman missing for forty years from a wealthy Swedish family.
+BK00023,And Then There Were None,Agatha Christie,1939,Collins,Mystery,Ten strangers are invited to an island and begin dying one by one in the order of a nursery rhyme.
+BK00024,The Silent Patient,Alex Michaelides,2019,Celadon,Mystery,A woman shoots her husband and never speaks again. A psychotherapist becomes obsessed with making her talk.
+BK00025,In the Woods,Tana French,2007,Viking,Mystery,A detective investigates a child's murder in the same woods where his friends vanished when he was twelve.
+BK00026,The Thursday Murder Club,Richard Osman,2020,Viking,Mystery,"Four residents of a retirement village meet weekly to review cold cases, then a real killing arrives on their doorstep."
+BK00027,Rebecca,Daphne du Maurier,1938,Gollancz,Mystery,A young bride arrives at her husband's estate and finds it still governed by the memory of his first wife.
+BK00028,Pride and Prejudice,Jane Austen,1813,Egerton,Classic,A sharp witted young woman and a proud landowner misjudge each other repeatedly in a society organised around marriage and money.
+BK00029,Jane Eyre,Charlotte Bronte,1847,Smith Elder,Classic,An orphaned governess builds a self against cruelty and falls in love with a man keeping a secret in his attic.
+BK00030,Wuthering Heights,Emily Bronte,1847,Newby,Classic,A foundling and the daughter of the house destroy two families across generations on the Yorkshire moors.
+BK00031,Great Expectations,Charles Dickens,1861,Chapman and Hall,Classic,An orphan receives money from an unknown benefactor and learns what his new gentility actually costs.
+BK00032,Crime and Punishment,Fyodor Dostoevsky,1866,The Russian Messenger,Classic,"A poor student murders a pawnbroker to test a theory about extraordinary men, then cannot live with what follows."
+BK00033,Anna Karenina,Leo Tolstoy,1878,The Russian Messenger,Classic,A married woman's affair destroys her position while a landowner searches for meaning in work and faith.
+BK00034,Moby Dick,Herman Melville,1851,Harper,Classic,A sailor joins a whaling voyage commanded by a captain consumed by the white whale that took his leg.
+BK00035,Mrs Dalloway,Virginia Woolf,1925,Hogarth,Classic,"A single June day in London, moving between a woman preparing a party and a veteran unravelling from shell shock."
+BK00036,The Great Gatsby,F. Scott Fitzgerald,1925,Scribner,Classic,"A mysterious millionaire throws parties for a woman across the bay, in a summer of wealth and careless ruin."
+BK00037,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,Harper,Classic,Seven generations of a family found and lose a town where the miraculous is treated as ordinary weather.
+BK00038,Sapiens,Yuval Noah Harari,2011,Harvill Secker,History,"A sweeping account of how one human species came to dominate the planet through shared fictions, agriculture and empire."
+BK00039,Guns Germs and Steel,Jared Diamond,1997,Norton,History,An argument that geography rather than culture explains why some societies conquered others.
+BK00040,The Wright Brothers,David McCullough,2015,Simon and Schuster,History,"Two bicycle shop owners from Ohio solve controlled flight through patience, argument and relentless testing."
+BK00041,SPQR,Mary Beard,2015,Profile,History,A history of Rome that asks how a small town became an empire and what ordinary Romans actually thought.
+BK00042,The Silk Roads,Peter Frankopan,2015,Bloomsbury,History,World history retold with central Asia at the centre rather than Europe.
+BK00043,Thinking Fast and Slow,Daniel Kahneman,2011,Farrar Straus,Psychology,"Two systems of thought, one quick and intuitive and one slow and deliberate, and the predictable errors the fast one makes."
+BK00044,Atomic Habits,James Clear,2018,Avery,Self Improvement,Small changes compound. A framework for building habits by design rather than relying on motivation.
+BK00045,Deep Work,Cal Newport,2016,Grand Central,Self Improvement,"An argument that sustained concentration is becoming rare and valuable, and a method for protecting it."
+BK00046,Quiet,Susan Cain,2012,Crown,Psychology,"The case that introversion is a temperament rather than a deficiency, and that institutions are built for the wrong half."
+BK00047,Man's Search for Meaning,Viktor Frankl,1946,Beacon,Psychology,"A psychiatrist's account of the camps and the conclusion that meaning, not pleasure, is what sustains people."
+BK00048,The Body Keeps the Score,Bessel van der Kolk,2014,Viking,Psychology,How trauma lodges in the body and what approaches actually help people recover.
+BK00049,The Pragmatic Programmer,Andrew Hunt,1999,Addison Wesley,Technology,"Practical craft advice for programmers on debugging, abstraction, automation and not repeating yourself."
+BK00050,Clean Code,Robert C. Martin,2008,Prentice Hall,Technology,"What makes code readable, and the habits that keep a codebase maintainable as it grows."
+BK00051,Designing Data Intensive Applications,Martin Kleppmann,2017,O'Reilly,Technology,"How storage, replication, consistency and stream processing actually work in large systems."
+BK00052,The Mythical Man Month,Frederick Brooks,1975,Addison Wesley,Technology,"Why adding people to a late software project makes it later, and other durable lessons about building systems."
+BK00053,Hands On Machine Learning,Aurelien Geron,2019,O'Reilly,Technology,"A practical path through scikit-learn and neural networks, built around working code rather than theory first."
+BK00054,The Elements of Statistical Learning,Trevor Hastie,2001,Springer,Technology,A mathematical treatment of supervised and unsupervised learning for readers comfortable with statistics.
+BK00055,Educated,Tara Westover,2018,Random House,Memoir,"A woman raised by survivalists with no schooling teaches herself enough to reach Cambridge, at the cost of her family."
+BK00056,Born a Crime,Trevor Noah,2016,Spiegel and Grau,Memoir,"Growing up mixed race in apartheid South Africa, where the author's existence was itself illegal."
+BK00057,When Breath Becomes Air,Paul Kalanithi,2016,Random House,Memoir,A neurosurgeon diagnosed with lung cancer writes about what makes a life meaningful when it is being shortened.
+BK00058,The Glass Castle,Jeannette Walls,2005,Scribner,Memoir,"A childhood of poverty and chaos with brilliant, negligent parents, recounted without self pity."
+BK00059,Beloved,Toni Morrison,1987,Knopf,Literary,"A formerly enslaved woman is visited by the daughter she killed to keep from slavery, in a house that will not settle."
+BK00060,Never Let Me Go,Kazuo Ishiguro,2005,Faber,Literary,Students at an English boarding school slowly understand what they were made for.
+BK00061,The Road,Cormac McCarthy,2006,Knopf,Literary,"A father and son walk south through ash toward the coast, carrying fire in a world that has ended."
+BK00062,A Little Life,Hanya Yanagihara,2015,Doubleday,Literary,"Four friends in New York across decades, centred on one man's refusal to speak about his past."
+BK00063,Normal People,Sally Rooney,2018,Faber,Literary,"Two Irish students circle each other from school through university, unable to say what they mean."
+BK00064,Lincoln in the Bardo,George Saunders,2017,Random House,Literary,The ghosts in a Washington graveyard observe a grieving president visiting his son's crypt.
+BK00065,The Remains of the Day,Kazuo Ishiguro,1989,Faber,Literary,An English butler drives across the country and slowly recognises the cost of a life given to service.
+BK00066,Half of a Yellow Sun,Chimamanda Ngozi Adichie,2006,Knopf,Literary,"Three lives intersect during the Biafran war, from academic households into famine and flight."
