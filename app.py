@@ -472,7 +472,7 @@ with tab_mood:
     st.markdown('<div class="section">Describe what you feel like '
                 'reading</div>', unsafe_allow_html=True)
     st.markdown('<p class="fine">Plain language. Themes, setting, tone, '
-                'subject — whatever comes to mind. This searches the '
+                'subject whatever comes to mind. This searches the '
                 'content space rather than matching keywords in titles.</p>',
                 unsafe_allow_html=True)
 
