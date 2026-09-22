@@ -33,7 +33,7 @@ def choose(root, title):
 
 def copy_into_place(source, target):
     if os.path.abspath(source) == os.path.abspath(target):
-        return  # already in the right place
+        return  
     shutil.copyfile(source, target)
 
 
@@ -74,7 +74,7 @@ def main():
             rating_note = f"{len(ratings):,} ratings"
             print(f"  {len(ratings):,} ratings saved to {RATINGS_TARGET}")
     elif os.path.exists(RATINGS_TARGET):
-        # Old ratings from a different dataset would not match these books
+
         os.remove(RATINGS_TARGET)
         print("  Removed old ratings file (it belonged to a different dataset)")
 
