@@ -230,7 +230,6 @@ def card(book, position=None):
     Parts with no data are left out instead of showing a placeholder."""
     esc = lambda v: html.escape(html.unescape(str(v)))
 
-    # call number: position, genre if known, author, year if known
     parts = []
     if position:
         parts.append(f"№ {position:02d}")
@@ -283,7 +282,6 @@ def card(book, position=None):
 BOOKS_PATH = "data/Books.csv"
 RATINGS_PATH = "data/Ratings.csv"
 
-# Used automatically if the files above are not found
 SAMPLE_BOOKS = "data/sample_books.csv"
 SAMPLE_RATINGS = "data/sample_ratings.csv"
 
@@ -323,7 +321,7 @@ summary = dl.dataset_summary(books, ratings)
 coverage = engine.coverage()
 
 
-# ---------------- sidebar: library card, no uploads ----------------
+# ---------------- sidebar: library card ----------------
 with st.sidebar:
     st.markdown('<div class="wordmark">Hybrid <em>Book</em><br>Recommender</div>',
                 unsafe_allow_html=True)
