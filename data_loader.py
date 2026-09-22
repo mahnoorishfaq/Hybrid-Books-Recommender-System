@@ -16,7 +16,6 @@ import re
 
 import pandas as pd
 
-# Candidate column names, in order of preference.
 BOOK_COLUMNS = {
     "book_id":     ["isbn", "book_id", "bookid", "id", "book-id"],
     "title":       ["book-title", "title", "book_title", "name", "booktitle"],
@@ -101,12 +100,10 @@ def load_books(file_like):
     for standard, actual in found.items():
         books[standard] = df[actual]
 
-    # A book id is required for joining ratings. Make one if absent.
     if "book_id" not in books.columns:
         books["book_id"] = books.index.astype(str)
     books["book_id"] = books["book_id"].astype(str).str.strip()
 
-    # Fill the optional columns so the rest of the code can rely on them
     for column in ("author", "publisher", "description", "genre", "image"):
         if column not in books.columns:
             books[column] = ""
@@ -143,8 +140,6 @@ def load_ratings(file_like):
         "rating": pd.to_numeric(df[found["rating"]], errors="coerce"),
     }).dropna(subset=["rating"])
 
-    # Book-Crossing uses 0 to mean "implicit interaction, no score given".
-    # Those are not opinions, so they are dropped.
     ratings = ratings[ratings["rating"] > 0]
 
     return ratings.reset_index(drop=True), None
